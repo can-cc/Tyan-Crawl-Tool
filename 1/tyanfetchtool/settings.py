@@ -11,9 +11,9 @@ MANAGERS = ADMINS
 
 MYSQL_HOST = 'w.rdc.sae.sina.com.cn'
 MYSQL_PORT = '3307'
-MYSQL_USER = '11jyj1n2ll'
-MYSQL_PASS = 'm4m1w0ywx51ym53020450j44km1m44xzw0jw4xzl'
-MYSQL_DB   = 'app_tyanfetchtool'
+MYSQL_USER = ''
+MYSQL_PASS = ''
+MYSQL_DB   = ''
 
 # from sae._restful_mysql import monkey
 # monkey.patch()
