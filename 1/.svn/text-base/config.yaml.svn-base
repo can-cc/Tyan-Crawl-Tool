@@ -1,0 +1,16 @@
+libraries:
+- name: "django"
+  version: "1.4"
+
+- name: "tyanfetchtool"
+  version: "1"
+
+
+name: tyanfetchtool
+version: 1
+accesskey: 11jyj1n2ll
+cron:
+- description: fetchzhidao
+  url: zhidao/realstart
+  schedule: "*/40 * * * *"
+

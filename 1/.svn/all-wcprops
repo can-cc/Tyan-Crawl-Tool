@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/tyanfetchtool/!svn/ver/1/1
+END
+manage.py
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/tyanfetchtool/!svn/ver/1/1/manage.py
+END
+config.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/tyanfetchtool/!svn/ver/156/1/config.yaml
+END
+index.wsgi
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/tyanfetchtool/!svn/ver/36/1/index.wsgi
+END

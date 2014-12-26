@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/tyanfetchtool/!svn/ver/1/1/tyanfetchtool
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/tyanfetchtool/!svn/ver/132/1/tyanfetchtool/urls.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/tyanfetchtool/!svn/ver/132/1/tyanfetchtool/settings.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/tyanfetchtool/!svn/ver/1/1/tyanfetchtool/__init__.py
+END
+wsgi.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/tyanfetchtool/!svn/ver/1/1/tyanfetchtool/wsgi.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/tyanfetchtool/!svn/ver/3/1/tyanfetchtool/views.py
+END
